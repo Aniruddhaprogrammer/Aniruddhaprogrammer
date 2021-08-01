@@ -1,5 +1,5 @@
                   💞️ OPTIMISTIC 💞️ 
-- 👋 Hi, I’m @Aniruddhaprogrammer
+- 👋 Hi, I’m Aniruddha as @Aniruddhaprogrammer
 - 👀 I’m interested in Tech Studies and Programming
 - 🌱 I’m currently learning Web Development
 - 📫 Contact :
