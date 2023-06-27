@@ -3,7 +3,6 @@
 - 👀 I’m interested in Tech Studies and Programming
 - 🌱 I’m currently learning Data Science
 - 📫 Contact :
-          Phone :- +91 7982079801
           E-mail :- Tkdaniruddha@gmail.com
 
 <!---
